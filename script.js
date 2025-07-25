@@ -105,7 +105,186 @@ const quizQuestions = [
       { text: "யோனத்தான்", correct: false },
     ],
   },
-  
+  {
+     question: "இரவிலே எது மரத்தில் தொங்கலாகாது?",
+    answers: [
+      { text: "வௌவால்", correct: false },
+      { text: "பறவை", correct: false },
+      { text: "பிரேதம்", correct: true },
+      { text: "ஆயுதம்", correct: false },
+    ],
+  },
+  {
+     question: "எந்த மரத்தை உதிர்த்து விட்ட பின்பு, தப்பியிருக்கிறதைப் பறிக்கத் திரும்பிப் போகக் கூடாது?",
+    answers: [
+      { text: "அத்தி மரம்", correct: false },
+      { text: "கேதுரு மரம்", correct: false },
+      { text: "ஒலிவ மரம்", correct: true },
+      { text: "மாதுள மரம்", correct: false },
+    ],
+  },
+  {
+     question: "யோசுவா ஒரு பெரிய கல்லை எந்த மரத்தின் கீழே நாட்டினான்?",
+    answers: [
+      { text: "பேரீச்சை", correct: false },
+      { text: "தேவதாரு", correct: false },
+      { text: "கர்வாலி", correct: true },
+      { text: "வாதுமை", correct: false },
+    ],
+  },
+  {
+     question: "தெபோராள் எந்த மரத்தின் கீழே குடியிருந்தாள்?",
+    answers: [
+      { text: "பேரீச்சை", correct: true },
+      { text: "மாதுளை", correct: false },
+      { text: "கேதுரு", correct: false },
+      { text: "தென்னை", correct: false },
+    ],
+  },
+  {
+     question: "கிதியோனுக்குத் தரிசனமான தூதன் எந்த மரத்தின் கீழே அமர்ந்தார்?",
+    answers: [
+      { text: "காட்டத்தி", correct: false },
+      { text: "கர்வாலி", correct: true },
+      { text: "தேவதாரு", correct: false },
+      { text: "மாதுளை", correct: false },
+    ],
+  },
+  {
+     question: "எந்த மரத்தண்டையிலே மில்லோவின் குடும்பத்தார் அபிமெலேக்கை ராஜாவாக்கினர்?",
+    answers: [
+      { text: "ஒலிவ மரம்", correct: false },
+      { text: "மாதுளை மரம்", correct: false },
+      { text: "கர்வாலி", correct: true },
+      { text: "அத்தி மரம்", correct: false },
+    ],
+  },
+  {
+     question: "ஒரு படை மெயொனெனீமின் எந்த மரத்தின் வழியாய் வந்தது?",
+    answers: [
+      { text: "தேவதாரு", correct: false },
+      { text: "வாதுமை", correct: false },
+      { text: "கர்வாலி", correct: true },
+      { text: "புன்னை", correct: false },
+    ],
+  },
+  {
+     question: "ஒரு மரத்தின் கொம்பை வெட்டி, தன் தோளின் மேல் போட்டுக் கொண்டது யார்?",
+    answers: [
+      { text: "அபிமெலேக்கு", correct: true },
+      { text: "கிதியோன்", correct: false },
+      { text: "அபியத்தான்", correct: false },
+      { text: "சிம்சோன்", correct: false },
+    ],
+  },
+  {
+     question: "சவுல் எந்த மரத்தின் கீழ் இருந்தான்?",
+    answers: [
+      { text: "ஒலிவ மரம்", correct: false },
+      { text: "அத்தி மரம்", correct: false },
+      { text: "நெல்லி மரம்", correct: false },
+      { text: "மாதுளை மரம்", correct: true },
+    ],
+  },
+  {
+     question: "எந்த மரத்தால் பண்ணப்பட்ட கீத வாத்தியங்களோடு, தாவீது கர்த்தருக்கு முன்பாக ஆடிப் பாடினான்?",
+    answers: [
+      { text: "தேவதாரு", correct: true },
+      { text: "கேதுரு", correct: false },
+      { text: "கர்வாலி", correct: false },
+      { text: "புன்னை", correct: false },
+    ],
+  },
+  {
+     question: "அப்சலோமின் தலை எந்த மரத்தில் மாட்டிக் கொண்டது?",
+    answers: [
+      { text: "மாதுளை மரம்", correct: false },
+      { text: "கர்வாலி மரம்", correct: true },
+      { text: "ஒலிவ மரம்", correct: false },
+      { text: "வாதுமை மரம்", correct: false },
+    ],
+  },
+  {
+     question: "சாலொமோனுடைய நாளெல்லாம் இஸ்ரவேலர் எந்த மரத்தின் நிழலில் சுகமாய்க் குடியிருந்தார்கள்?",
+    answers: [
+      { text: "கேதுரு", correct: false },
+      { text: "அத்தி", correct: true },
+      { text: "புன்னை", correct: false },
+      { text: "ஒலிவ மரம்", correct: false },
+    ],
+  },
+  {
+     question: "சாலொமோன் கட்டின மாளிகையின் தூண்கள் எந்த மரத்தால் செய்யப்பட்டது?",
+    answers: [
+      { text: "கேதுரு", correct: true },
+      { text: "பேரீச்சை", correct: false },
+      { text: "அத்தி", correct: false },
+      { text: "கர்வாலி", correct: false },
+    ],
+  },
+  {
+     question: "பச்சையான சகல மரத்தின் கீழும் பலியிட்டுத் தூபங்காட்டி வந்தது யார்?",
+    answers: [
+      { text: "ஆமான்", correct: false },
+      { text: "யோவாப்", correct: false },
+      { text: "ஆகாஸ்", correct: true },
+      { text: "யோராம்", correct: false },
+    ],
+  },
+  {
+     question: "சவுலின் எலும்பை எந்த மரத்தின் கீழ் அடக்கம் பண்ணினர்?",
+    answers: [
+      { text: "தேவதாரு", correct: false },
+      { text: "லீபனோன்", correct: false },
+      { text: "வாதுமை", correct: false },
+      { text: "கர்வாலி", correct: true },
+    ],
+  },
+  {
+     question: "மரத்தால் செய்யப்பட்ட ஒரு பிரசங்க பீடத்தின் மேல் நின்றவன் யார்?",
+    answers: [
+      { text: "நெகேமியா", correct: false },
+      { text: "எஸ்றா", correct: true },
+      { text: "யோனத்தான்", correct: false },
+      { text: "யோசுவா", correct: false },
+    ],
+  },
+  {
+     question: "ஒரு மரத்தைக் குறித்தாவது நம்பிக்கையுண்டு என்று கூறியது யார்?",
+    answers: [
+      { text: "மோசே", correct: false },
+      { text: "யோசுவா", correct: false },
+      { text: "யோபு", correct: true },
+      { text: "காலேப்", correct: false },
+    ],
+  },
+  {
+     question: "வழி தப்பினவன் பூக்கள் உதிர்ந்து போகிற எந்த மரத்தைப் போலிருப்பான்?",
+    answers: [
+      { text: "ஒலிவ மரம்", correct: true },
+      { text: "அத்தி மரம்", correct: false },
+      { text: "மாதுளை மரம்", correct: false },
+      { text: "கேதுரு", correct: false },
+    ],
+  },
+  {
+     question: "அக்கிரமம் எந்த மரத்தைப் போல் முறிந்து விழும்?",
+    answers: [
+      { text: "இள மரம்", correct: false },
+      { text: "பட்ட மரம்", correct: true },
+      { text: "பச்சை மரம்", correct: false },
+      { text: "முதிர் மரம்", correct: false },
+    ],
+  },
+  {
+     question: "பிகெமோத் தன் வாலை எந்த மரத்தைப் போல் நீட்டுகிறது?",
+    answers: [
+      { text: "அத்தி", correct: false },
+      { text: "கர்வாலி", correct: false },
+      { text: "வாதுமை", correct: false },
+      { text: "கேதுரு", correct: true },
+    ],
+  },
 ];
 
 // QUIZ STATE VARS
