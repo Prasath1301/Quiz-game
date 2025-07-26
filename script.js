@@ -55,8 +55,8 @@ const quizQuestions = [
     question: "தெபோராள் எந்த மரத்தின் கீழ் அடக்கம் பண்ணப்பட்டாள்",
     answers: [
       { text: "அத்தி மரம்", correct: false },
-      { text: "கர்வாலி மரம்", correct: false },
-      { text: "ஒலிவ மரம்", correct: true },
+      { text: "கர்வாலி மரம்", correct: true },
+      { text: "ஒலிவ மரம்", correct: false },
       { text: "பேரீச்சை மரம்", correct: false },
     ],
   },
