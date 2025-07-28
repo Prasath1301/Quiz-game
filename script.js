@@ -27,10 +27,10 @@ const quizQuestions = [
   {
     question: "பேழையிலிருந்து வெளியே சென்ற புறா எந்த மரத்தின் இலையைக் கொத்திக் கொண்டு வந்தது?",
     answers: [
-      { text: "கர்வாலி", correct: false },
-      { text: "அத்தி", correct: false },
+      { text: "கர்வாலி மரம்", correct: false },
+      { text: "அத்தி மரம்", correct: false },
       { text: "ஒலிவமரம்", correct: true },
-      { text: "பனை", correct: false },
+      { text: "பனை மரம்", correct: false },
     ],
   },
   {
@@ -283,6 +283,141 @@ const quizQuestions = [
       { text: "கர்வாலி", correct: false },
       { text: "வாதுமை", correct: false },
       { text: "கேதுரு", correct: true },
+    ],
+  },
+   {
+     question: "கர்த்தருடைய வேதத்தைத் தியானிக்கிறவன் எந்த மரத்தைப் போலிருப்பான்?",
+    answers: [
+      { text: "இலையுதிராதருக்கிற", correct:  },
+      { text: "இலையுதிரும்", correct: false },
+      { text: "உயரமான", correct: false },
+      { text: "செழுமையான", correct: - },
+    ],
+  },
+  {
+     question: "நானோ தேவனுடைய ஆலயத்தில் பச்சையான எந்த மரத்தைப் போலிருக்கிறேன் என்று தாவீது கூறினார்?",
+    answers: [
+      { text: "அத்தி மரம்", correct: false },
+      { text: "கேதுரு மரம்", correct: false },
+      { text: "ஒலிவ மரம்", correct: true },
+      { text: "பனை மரம்", correct: false },
+    ],
+  },
+  {
+     question: "எந்த மரத்தைக் காக்கிறவன் அதின் காக்கிறவன் அதின் கனியைப் புசிப்பான்?",
+    answers: [
+      { text: "அத்தி மரம்", correct: true },
+      { text: "கேதுரு மரம்", correct: false },
+      { text: "ஒலிவ மரம்", correct: false },
+      { text: "கிச்சிலி மரம்", correct: false },
+    ],
+  },
+  {
+     question: "மரத்தைப் பிளக்கிறவன் அதினால் _____ படுவான்.",
+    answers: [
+      { text: "துன்பப்படுவான்", correct: false },
+      { text: "மோசப்படுவான்", correct: true },
+      { text: "கனப்படுவான்", correct: false },
+      { text: "நலப்படுவான்", correct: false },
+    ],
+  },
+  {
+     question: "சாலொமோன் எந்த மரத்தினால் தனக்கு ஒரு இரதத்தைப் பண்ணுவித்தான்?",
+    answers: [
+      { text: "தேவதாரு மரம்", correct: false },
+      { text: "தென்னை மரம்", correct: false },
+      { text: "லீபனோன் மரம்", correct: true },
+      { text: "பனை மரம்", correct: false },
+    ],
+  },
+  {
+     question: "ராஜகுமாரத்தியின் உயரம் எந்த மரத் தொழுங்கு போல இருக்கறது?",
+    answers: [
+      { text: "கிச்சிலி மரம்", correct: false },
+      { text: "தேவதாரு மரம்", correct: false },
+     { text: "கர்வாலி மரம்", correct: false },
+      { text: "பனை மரம்", correct: true },
+    ],
+  },
+  {
+     question: "நானோ தேவனுடைய ஆலயத்தில் பச்சையான_____மரத்தைப் போலிருக்கிறேன் என்று தாவீது கூறினார்",
+    answers: [
+      { text: "அத்தி மரம்", correct: false },
+      { text: "கேதுரு மரம்", correct: false },
+      { text: "ஒலிவ மரம்", correct: true },
+      { text: "பனை மரம்", correct: false },
+    ],
+  },
+  {
+     question: "எந்த மரத்தைக் காக்கிறவன் அதின் கனியைப் புசிப்பான்?",
+    answers: [
+      { text: "அத்தி மரம்", correct: true },
+      { text: "கேதுரு மரம்", correct: false },
+      { text: "ஒலிவ மரம்", correct: false },
+      { text: "கிச்சிலி மரம்", correct: false },
+    ],
+  },
+  {
+     question: "மரத்தைப் பிளக்கிறவன் அதினால்_____ படுவான்?",
+    answers: [
+      { text: "துன்பப்படுவான்", correct: false },
+      { text: "மோசப்படுவான்", correct: true },
+      { text: "கனப்படுவான்", correct: false },
+      { text: "நலப்படுவான்", correct: false },
+    ],
+  },
+  {
+     question: "சாலொமோன் எந்த மரத்தினால் தனக்கு ஒரு இரதத்தைப் பண்ணுவித்தான்?",
+    answers: [
+      { text: "தேவதாரு மரம்", correct: false },
+      { text: "தென்னை மரம்", correct: false },
+      { text: "லீபனோன் மரம்", correct: true },
+      { text: "பனை மரம்", correct: false },
+    ],
+  },
+  {
+     question: "ராஜகுமாரத்தியின் உயரம் எந்த மரத் தொழுங்கு போல இருக்கிறது",
+    answers: [
+      { text: "கிச்சிலி மரம்", correct: false },
+      { text: "தேவதாரு மரம்", correct: false },
+      { text: "கர்வாலி", correct: false },
+      { text: "பனை மரம்", correct: true },
+    ],
+  },
+   {
+     question: "வானத்தின் சர்வசேனைகள் எந்த மரத்தின் காய்கள் உதிருகிறது போல உதிர்ந்து விழும்",
+    answers: [
+      { text: "நெல்லி மரம்", correct: false },
+      { text: "அத்தி மரம்", correct: true },
+      { text: "கேதுரு மரம்", correct: false },
+      { text: "வாதுமை மரம்", correct: false },
+    ],
+  },
+   {
+     question: "தச்சன் எந்த மரத்தை நடுகிறான்",
+    answers: [
+      { text: "ஒலிவ மரம்", correct: false },
+      { text: "மாதள மரம்", correct: false },
+      { text: "அத்தி மரம்", correct: false },
+      { text: "அசோக மரம்", correct: true },
+    ],
+  },
+   {
+     question: "எரேமியா எந்த மரத்தின் கிளையைக் கண்டான்",
+    answers: [
+      { text: "வாதுமை மரம்", correct: true },
+      { text: "அத்தி மரம்", correct: false },
+      { text: "புன்னை மரம்", correct: false },
+      { text: "கேதுரு மரம்", correct: false },
+    ],
+  },
+   {
+     question: "எந்த மரத்தால் தீருவின் கப்பற் பலகைகளைச் செய்தார்கள்?",
+    answers: [
+      { text: "கர்வாலி மரம்", correct: false },
+      { text: "பேரீச்சை மரம்", correct: false },
+      { text: "தேவதாரு மரம்", correct: true },
+      { text: "காட்டத்தி மரம்", correct: false },
     ],
   },
 ];
