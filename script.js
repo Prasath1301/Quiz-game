@@ -294,42 +294,7 @@ const quizQuestions = [
       { text: "செழுமையான", correct: false },
     ],
   },
-  {
-     question: "நானோ தேவனுடைய ஆலயத்தில் பச்சையான எந்த மரத்தைப் போலிருக்கிறேன் என்று தாவீது கூறினார்?",
-    answers: [
-      { text: "அத்தி மரம்", correct: false },
-      { text: "கேதுரு மரம்", correct: false },
-      { text: "ஒலிவ மரம்", correct: true },
-      { text: "பனை மரம்", correct: false },
-    ],
-  },
-  {
-     question: "எந்த மரத்தைக் காக்கிறவன் அதின் காக்கிறவன் அதின் கனியைப் புசிப்பான்?",
-    answers: [
-      { text: "அத்தி மரம்", correct: true },
-      { text: "கேதுரு மரம்", correct: false },
-      { text: "ஒலிவ மரம்", correct: false },
-      { text: "கிச்சிலி மரம்", correct: false },
-    ],
-  },
-  {
-     question: "மரத்தைப் பிளக்கிறவன் அதினால் _____ படுவான்.",
-    answers: [
-      { text: "துன்பப்படுவான்", correct: false },
-      { text: "மோசப்படுவான்", correct: true },
-      { text: "கனப்படுவான்", correct: false },
-      { text: "நலப்படுவான்", correct: false },
-    ],
-  },
-  {
-     question: "சாலொமோன் எந்த மரத்தினால் தனக்கு ஒரு இரதத்தைப் பண்ணுவித்தான்?",
-    answers: [
-      { text: "தேவதாரு மரம்", correct: false },
-      { text: "தென்னை மரம்", correct: false },
-      { text: "லீபனோன் மரம்", correct: true },
-      { text: "பனை மரம்", correct: false },
-    ],
-  },
+  
   {
      question: "ராஜகுமாரத்தியின் உயரம் எந்த மரத் தொழுங்கு போல இருக்கறது?",
     answers: [
