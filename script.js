@@ -88,7 +88,7 @@ const quizQuestions = [
     ],
   },
    {
-     question: "தூப்பீடம் எந்த மரத்தால் உண்டாக்கப்பட்டது?",
+     question: "தூபப்பீடம் எந்த மரத்தால் உண்டாக்கப்பட்டது?",
     answers: [
       { text: "கர்வாலி", correct: false },
       { text: "சீத்திம்", correct: true },
