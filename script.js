@@ -285,13 +285,13 @@ const quizQuestions = [
       { text: "கேதுரு", correct: true },
     ],
   },
-   {
+  {
      question: "கர்த்தருடைய வேதத்தைத் தியானிக்கிறவன் எந்த மரத்தைப் போலிருப்பான்?",
     answers: [
-      { text: "இலையுதிராதருக்கிற", correct:  },
+      { text: "இலையுதிராதருக்கிற", correct: true },
       { text: "இலையுதிரும்", correct: false },
       { text: "உயரமான", correct: false },
-      { text: "செழுமையான", correct: - },
+      { text: "செழுமையான", correct: false },
     ],
   },
   {
